@@ -35,14 +35,14 @@
 #     print('\U0001f600' * num)
 
 # Nested For Loop - same increment as above, x number of times
-# for x in range(4):
-#     for num in range(1,11):
-#         print('\U0001f600' * num)
+for x in range(4):
+    for num in range(1,11):
+        print('\U0001f600' * num)
 
 # alternative While Loops with for loop
-for x in range(4):
-    i = 1
-    while i <= 10:
-        print('\U0001f600' * i)
-        i += 1
-print('Done')
+# for x in range(4):
+#     i = 1
+#     while i <= 10:
+#         print('\U0001f600' * i)
+#         i += 1
+# print('Done')
