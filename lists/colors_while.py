@@ -1,4 +1,4 @@
-colors = ["purple", "teal", "magenta", "crimson", "emerald"]
+colors = ["purple", "teal", "magenta", "crimson", "emerald", "chartreause", "red", "orange"]
 index = 0
 
 while index < len(colors):
